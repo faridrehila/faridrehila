@@ -82,7 +82,7 @@ I believe in giving back:
 - 🚀 Scaling **Love Album** to 100+ weddings
 - 📱 Launching mobile apps for all products
 - 🔧 Building reusable components as open source libraries
-- 💪 Training for **Paris-Brest-Paris 2027** (1,200km ultra cycling)
+- 💪 Training for **TCR 2027** (4000+ km ultra cycling)
 
 ---
 
