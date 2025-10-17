@@ -20,7 +20,7 @@
 - 📊 **Traction:** 50+ weddings, 10,000+ photos collected
 - 💻 **Tech:** Next.js, TypeScript, React Native, Backblaze B2
 - 📱 Apps: [iOS](https://apps.apple.com/YOUR_LINK) | [Android](https://play.google.com/YOUR_LINK) (Coming Soon...)
-- ⭐ **Open source:** [wedding-qr-designer](https://github.com/faridrehila/wedding-qr-designer) - Customizable QR codes library
+- ⭐ **Open source:** [wedding-qr-code-designer](https://github.com/faridrehila/wedding-qr-code-designer) - Customizable QR codes library
 
 #### 💼 [Easy Job Room](https://easyjobroom.ch?ref=github)
 **Job application automation for Switzerland**
@@ -59,12 +59,16 @@
 
 ---
 
-### 🔧 Open Source
+### 🔧 Open Source & Learning Resources
 
-I believe in giving back:
+Popular repos for the React and React Native community:
 
-- **[wedding-qr-designer](https://github.com//wedding-qr-designer)** - Beautiful, customizable QR codes for weddings (TypeScript/React) ![npm](https://img.shields.io/npm/v/wedding-qr-designer?style=flat-square)
-- More coming soon...
+- **[expo-push-notifications-example](https://github.com/faridrehila/expo-push-notifications-example)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Complete guide to push notifications in Expo
+- **[yuka-clone-expo](https://github.com/faridrehila/yuka-clone-expo)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Food scanner app clone with barcode scanning
+- **[chat-app-react-native-nodejs-socketio](https://github.com/faridrehila/chat-app-react-native-nodejs-socketio)** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) - Real-time chat with Socket.io
+- **[wedding-qr-designer](https://github.com/faridrehila/wedding-qr-designer)** *(coming soon)* - Customizable QR codes for events
+
+💡 *These are used by [React Académie](https://rn.reactacademie.fr?ref=github) students*
 
 ---
 
