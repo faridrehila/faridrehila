@@ -66,7 +66,7 @@ Popular repos for the React and React Native community:
 - **[expo-push-notifications-example](https://github.com/faridrehila/expo-push-notifications-example)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Complete guide to push notifications in Expo
 - **[yuka-clone-expo](https://github.com/faridrehila/yuka-clone-expo)** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Food scanner app clone with barcode scanning
 - **[chat-app-react-native-nodejs-socketio](https://github.com/faridrehila/chat-app-react-native-nodejs-socketio)** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) - Real-time chat with Socket.io
-- **[wedding-qr-designer](https://github.com/faridrehila/wedding-qr-designer)** *(coming soon)* - Customizable QR codes for events
+- **[wedding-qr-designer](https://github.com/faridrehila/wedding-qr-code-designer)** - Customizable QR codes for events
 
 💡 *These are used by [React Académie](https://rn.reactacademie.fr?ref=github) students*
 
